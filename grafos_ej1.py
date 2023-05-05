@@ -9,6 +9,7 @@ Programa paralelo que calcula los 3-ciclos de un grafo definido como lista de ar
 en un único fichero dado.
 
 """
+
 from pyspark import SparkContext
 import sys
 
